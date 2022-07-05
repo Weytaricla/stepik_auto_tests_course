@@ -1,0 +1,21 @@
+1657028517274	geckodriver	INFO	Listening on 127.0.0.1:59252
+1657028517810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\red_r\\AppData\\Local\\Temp\\rust_mozprofileMUM7AP"
+1657028519599	Marionette	INFO	Marionette enabled
+1657028519607	Marionette	INFO	Listening on port 59264
+Read port: 59264
+1657028519797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\red_r\\AppData\\Local\\Temp\\rust_mozprofileMUM7AP\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1656937381, line 6289: unreachable code after return statement
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1656937381, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1657028540000	Marionette	INFO	Stopped listening on port 59264
+1657030777425	geckodriver	INFO	Listening on 127.0.0.1:50734
+1657030777957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\red_r\\AppData\\Local\\Temp\\rust_mozprofileNFFFfX"
+1657030778512	Marionette	INFO	Marionette enabled
+1657030778521	Marionette	INFO	Listening on port 50743
+Read port: 50743
+1657030779265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\red_r\\AppData\\Local\\Temp\\rust_mozprofileNFFFfX\\search.json.mozlz4", (void 0)))
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1657030782443	Marionette	INFO	Stopped listening on port 50743
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 694: TypeError: this.tablesData[table] is undefined
